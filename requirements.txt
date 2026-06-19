@@ -1,0 +1,6 @@
+Django>=5.0,<6.0
+django-cors-headers>=4.0
+django-import-export>=4.0
+pandas>=2.0
+xlsxwriter>=3.0
+gunicorn>=22.0
